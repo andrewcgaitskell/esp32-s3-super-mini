@@ -25,4 +25,8 @@
 
     https://www.nologo.tech/product/esp32/esp32c3SuperMini/
 
+    use Chrome or Chromium to translate Chinese to English
+
+    
+
 

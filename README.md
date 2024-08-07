@@ -7,6 +7,38 @@
     USB CDC on Boot - enabled
     JTAG Adapter - Integrated USB JTAG
 
+# pins
+
+        cable up
+        pcb with chip up
+        
+        left
+        
+        5
+        6
+        7
+        8
+        9
+        10
+        20
+        21
+        
+        right
+        
+        5v
+        g
+        3.3
+        4
+        3
+        2
+        1
+        0
+
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
+
+
 # setting up the board for loading
 
     Entering download mode:

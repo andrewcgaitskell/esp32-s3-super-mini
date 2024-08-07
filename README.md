@@ -24,7 +24,7 @@
 | 21 |
 
 
-| Right | #1    | #2    |
+| Right | mode    | value    |
 | :---:   | :---: | :---: |    
 | 5v |
 | g |
@@ -34,10 +34,6 @@
 | 2 |
 | 1 |
 | 0 |
-
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
 
 
 # setting up the board for loading

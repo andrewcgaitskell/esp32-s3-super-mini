@@ -20,3 +20,9 @@
     sometimes you press it once,
     the port is unstable and will disconnect,
     you can judge it by the port recognition sound)
+
+# useful examples
+
+    https://www.nologo.tech/product/esp32/esp32c3SuperMini/
+
+

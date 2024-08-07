@@ -11,8 +11,12 @@
 
         cable up
         pcb with chip up
+
+| Left | mode    | value    |
+| :---:   | :---: | :---: |
+| 5 | A   | B   |
         
-| left |        
+| left |
 | 5 | 
 | 6 |
 | 7 |

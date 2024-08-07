@@ -2,10 +2,10 @@
 
 # arduino ide
 
-  Board - ESP32C3 Dev Module
-  Port - /dev/ttyACM0
-  USB CDC on Boot - enabled
-  JTAG Adapter - Integrated USB JTAG
+    Board - ESP32C3 Dev Module
+    Port - /dev/ttyACM0
+    USB CDC on Boot - enabled
+    JTAG Adapter - Integrated USB JTAG
 
 # setting up the board for loading
 
